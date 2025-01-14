@@ -14,9 +14,6 @@ const RegisterPage = () => {
         catch(err){
             alert('Registration failed, please try again later')
         }
-
-        
-        
         
     }
 
